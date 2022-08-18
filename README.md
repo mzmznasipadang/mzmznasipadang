@@ -18,12 +18,16 @@ const Victor = {
   tools: [React, Node, Styled-Components, Figma, Docker],
 ```
 
+### <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="50"> Personal Stats!
+
+[![Victor Stats](https://github-readme-stats.vercel.app/api?username=mzmznasipadang&theme=algolia&include_all_commits=true&show_icons=true&hide_border=true)](https://github.com/mzmznasipadang/laravel)
+
 <h2>🗂️Highlighted Project<h2/>
 
-[![Sycomora](https://github-readme-stats.vercel.app/api/pin/?username=mzmznasipadang&repo=new-sycomora&theme=algolia&show_icons=true)](https://github.com/mzmznasipadang/new-sycomora)
+<a href="https://github.com/mzmznasipadang/new-sycomora">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mzmznasipadang&repo=new-sycomora&theme=cobalt&show_icons=true" />
+<a/>
 
-[![Sycomora](https://github-readme-stats.vercel.app/api/pin/?username=sycomora&repo=web-strapi&theme=algolia&show_icons=true)](https://github.com/sycomora/web-strapi)
-
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="50"> <h2>Personal Stats<h2/>
-
-[![Victor Stats](https://github-readme-stats.vercel.app/api?username=mzmznasipadang&theme=algolia&show_icons=true)](https://github.com/mzmznasipadang/laravel)
+<a href="https://github.com/sycomora/web-strapi">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sycomora&repo=web-strapi&theme=cobalt&show_icons=true" />
+<a/>
