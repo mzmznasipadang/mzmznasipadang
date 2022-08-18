@@ -20,8 +20,10 @@ const Victor = {
 
 <h2>🗂️Highlighted Project<h2/>
 
-[![Victor Stats](https://github-readme-stats.vercel.app/api?username=mzmznasipadang&theme=cobalt&show_icons=true)](https://github.com/mzmznasipadang/laravel)
-
 [![Sycomora](https://github-readme-stats.vercel.app/api/pin/?username=mzmznasipadang&repo=new-sycomora&theme=algolia&show_icons=true)](https://github.com/mzmznasipadang/new-sycomora)
 
-[![Sycomora](https://github-readme-stats.vercel.app/api/pin/?username=sycomora&repo=web-strapi&theme=tokyonight&show_icons=true)](https://github.com/sycomora/web-strapi)
+[![Sycomora](https://github-readme-stats.vercel.app/api/pin/?username=sycomora&repo=web-strapi&theme=algolia&show_icons=true)](https://github.com/sycomora/web-strapi)
+
+<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="50"> <h2>Personal Stats<h2/>
+
+[![Victor Stats](https://github-readme-stats.vercel.app/api?username=mzmznasipadang&theme=algolia&show_icons=true)](https://github.com/mzmznasipadang/laravel)
