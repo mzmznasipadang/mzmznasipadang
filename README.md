@@ -21,3 +21,7 @@ const Victor = {
 <h2>🗂️Highlighted Project<h2/>
 
 [![Victor Stats](https://github-readme-stats.vercel.app/api?username=mzmznasipadang&theme=tokyonight&show_icons=true)](https://github.com/mzmznasipadang/laravel)
+
+[![Victor Laravel Stats](https://github-readme-stats.vercel.app/api/pin/?username=mzmzansipadang&repo=laravel&theme=tokyonight&show_icons=true)](https://github.com/mzmznasipadang/laravel)]
+
+[![Sycomora](https://github-readme-stats.vercel.app/api/pin/?username=mzmznasipadang&repo=new-sycomora&theme=tokyonight&show_icons=true)](https://github.com/mzmznasipadang/new-sycomora)
