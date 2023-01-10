@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/mzmznasipadang/mzmznasipadang/blob/main/Banner.png?raw=true" />
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on increasing my portfolio<br>🤝 I’m looking for help with Java and C++<br>🌱 I’m currently learning java, c++ and javascript<br>⚡ Fun fact I'm team leader, well mostly ;)
 
